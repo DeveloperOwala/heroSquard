@@ -2,7 +2,6 @@ body {
   height: 100vh;
   background-color: rgba(255, 0, 0, 0.658);
   scroll-behavior: smooth;
-  /* overflow-x: hidden; */
 }
 
 
