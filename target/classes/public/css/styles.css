@@ -106,14 +106,6 @@ body {
   background-size: contain;
 }
 
-/* .display {
-  height: 420px;
-  background-color: rgba(0, 0, 0, 0.658);
-  background-image: url('/images/heroview.png');
-  background-repeat: no-repeat;
-  background-position: left;
-  background-size: contain;
-} */
 
 .success {
   height: 560px;
@@ -147,9 +139,6 @@ body {
   background-repeat: no-repeat;
 }
 
-/* .dist {
-  vertical-align: middle;
-} */
 
 .dist {
   width: 500px;
