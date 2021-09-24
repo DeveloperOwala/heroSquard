@@ -17,7 +17,7 @@ Visit the link - https://github.com/DeveloperOwala/heroSquard
 5. Then open the terminal and write `$ gradle run`.
 
 ## Link to live site
-- https://github.com/DeveloperOwala/heroSquard
+- heroe-of-app.herokuapp.com/
 
 ## LICENSE
 Copyright 2021 Erick Otieno Okumu
